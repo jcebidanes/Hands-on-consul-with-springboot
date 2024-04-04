@@ -1,6 +1,8 @@
 age: 25
 name: Bruno
 address: Paris
+server:
+  address: 192.168.2.10 # Use your local ip
 spring:
   application:
     name: demo-consul
